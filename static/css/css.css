@@ -1,0 +1,29 @@
+
+
+    *{
+        margin: auto 0;
+        padding: 0;
+    }
+
+    html{
+        color: white;
+    }
+
+    body{
+        background-color: black;
+    }
+
+    #wrapper{
+        padding: 0 100px 0 100px;
+    }
+
+    #header{
+        text-align: center;
+        background-color: white;
+    }
+
+    #header .avatar img{
+        width: 100px;
+        border-radius: 30%;
+        
+    }
