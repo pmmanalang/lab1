@@ -1,5 +1,5 @@
 /* imports */
-@import url('https://fonts.googleapis.com/css?family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Baumans|Viga&display=swap');
 
 
 *{
@@ -9,8 +9,14 @@
 
 body{
     background: url("../images/bg-wallpaper.gif");
-    margin: 50px 200px;
+    margin: 50px 50px 50px 400px;
 }
+
+    #fixed{
+        position: fixed;
+        left: 0;
+        width: 40%;
+    }
 
 div{
     background-color: rgba(207, 214, 227, 0.5);
@@ -29,4 +35,8 @@ div{
 
     h2{
         font-family: 'Viga', sans-serif;
+    }
+
+    p{
+        font-family: 'Baumans', cursive;
     }
