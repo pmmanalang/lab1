@@ -21,34 +21,6 @@ body{
         width: 550px;
     }
 
-.web-links{
-    text-decoration: none;
-    border-radius: 20px;
-    color: rgb(0, 0, 0);
-    /* background-color: yellow; */
-    padding: 10px;
-}
-
-    #nav-bar{
-        position: fixed;
-        top: 60px;
-        left: 1250px;
-        list-style: none;
-    }
-
-        #nav-bar li{
-            background-color: rgb(240, 255, 255);
-            border-radius: 20px;
-            width: 100px;
-            margin: 10px;
-            padding: 10px;
-        }
-
-        .web-links:hover, #nav-bar li:hover{
-            background-color: rgb(0, 0, 0);
-            color: rgb(240, 255, 255);
-        }
-
     p, h3, h4{
         font-family: 'Baumans', cursive;
     }
